@@ -7,14 +7,11 @@ include_in_header: false
 # **Version 1.1**
 ...
 
-<br>
 
 # **Version 1.0.1**
 ...
 
-<br>
 
 # **Version 1.0**
 ...
 
-<br>
