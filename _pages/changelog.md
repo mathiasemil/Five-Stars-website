@@ -15,7 +15,7 @@ include_in_header: false
 
 <br>
 
-## **Version 1.0**
+# **Version 1.0**
 ...
 
 <br>
