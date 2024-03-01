@@ -23,11 +23,11 @@ enable_smart_app_banner                   : true                                
 your_name                                 : Mathias Emil Mortensen
 your_link                                 : https://mathiasemil.com                     
 your_city                                 : Copenhagen                                
-email_address                             : m@mathiasemil.com
+email_address                             : support@getfivestars.app
 facebook_username                         :                                           
 instagram_username                        : 
 twitter_username                          : 
-github_username                           : mathiasemil
+github_username                           : 
 youtube_username                          :
 mastodon_link                             : https://mas.to/@mathiasemil
 
@@ -38,7 +38,23 @@ features                                  :
 
   - title                                 : Read App Store reviews
     description                           : ...
-    fontawesome_icon_name                 : magic    
+    fontawesome_icon_name                 : magic 
+
+  - title                                 : Reply to users
+    description                           : ...
+    fontawesome_icon_name                 : magic 
+
+  - title                                 : Translations
+    description                           : ...
+    fontawesome_icon_name                 : magic 
+
+  - title                                 : AI-powered Quick Replies
+    description                           : ...
+    fontawesome_icon_name                 : magic 
+
+  - title                                 : Templates
+    description                           : ...
+    fontawesome_icon_name                 : magic 
 
 # Theme Settings
 topbar_color                              : "#000000"
@@ -47,7 +63,7 @@ topbar_title_color                        : "#ffffff"
 
 cover_image                               : assets/headerimage.png                    # Replace with alternative image path or image URL.
 cover_overlay_color                       : "#363b3d"
-cover_overlay_transparency                : 0.8
+cover_overlay_transparency                : 0.4
 
 device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
 
