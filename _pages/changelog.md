@@ -10,9 +10,6 @@ include_in_header: false
 
 <br>
 
-________
-<br>
-
 # **Version 1.0.1**
 ...
 
