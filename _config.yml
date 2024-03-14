@@ -58,7 +58,7 @@ features                                  :
 
   - title                                 : Customizable Templates
     description                           : Draft useful replies as templates to simplify replying to your users.
-    fontawesome_icon_name                 : text 
+    fontawesome_icon_name                 : file 
 
 # Theme Settings
 topbar_color                              : "#000000"
