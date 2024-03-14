@@ -8,8 +8,6 @@ include_in_header: false
 
 ### What's new
 Introducing Five Stars Pro 🎉
-
-Unlock powerful new features:
 * **Translate Reviews**: Translate reviews from all over the world to engage with all your users.
 * **AI-Powered Quick Replies**: Leverage AI-Powered Quick Replies to generate replies to reviews.
 * **Customizable Templates**: Draft useful replies as templates to simplify replying to your users.
