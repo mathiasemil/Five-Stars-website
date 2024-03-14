@@ -19,4 +19,4 @@ Bug fixes and improvements
 * Lookup Vision Pro apps by their app ID.
 
 ## **Version 1.0**
-Initial Release.
+Initial Release
