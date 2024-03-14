@@ -37,24 +37,28 @@ mastodon_link                             : https://mas.to/@mathiasemil
 features                                  :
 
   - title                                 : Read App Store reviews
-    description                           : ...
-    fontawesome_icon_name                 : magic 
+    description                           : See App Store reviews for all your apps.
+    fontawesome_icon_name                 : star
 
   - title                                 : Reply to users
-    description                           : ...
+    description                           : Compose replies to users or use templates to easily reply to reviews.
+    fontawesome_icon_name                 : reply 
+
+  - title                                 : App Store Connect integration
+    description                           : Connect with you Developer Account to to access your apps and reviews.
+    fontawesome_icon_name                 : link
+
+  - title                                 : Translate reviews
+    description                           : Translate reviews from all over the world to engage with all your users.
+    fontawesome_icon_name                 : globe 
+  
+  - title                                 : AI-Powered Quick Replies
+    description                           : Leverage AI-Powered Quick Replies to generate replies to reviews.
     fontawesome_icon_name                 : magic 
 
-  - title                                 : Translations
-    description                           : ...
-    fontawesome_icon_name                 : magic 
-
-  - title                                 : AI-powered Quick Replies
-    description                           : ...
-    fontawesome_icon_name                 : magic 
-
-  - title                                 : Templates
-    description                           : ...
-    fontawesome_icon_name                 : magic 
+  - title                                 : Customizable Templates
+    description                           : Draft useful replies as templates to simplify replying to your users.
+    fontawesome_icon_name                 : text 
 
 # Theme Settings
 topbar_color                              : "#000000"
