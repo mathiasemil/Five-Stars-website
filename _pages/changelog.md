@@ -4,6 +4,11 @@ title: Changelog
 include_in_header: false
 ---
 
+## **Version 1.1.1**
+
+### What's new
+This version improves data reloading and reliability.
+
 ## **Version 1.1**
 
 ### What's new
