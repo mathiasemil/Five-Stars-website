@@ -4,6 +4,11 @@ title: Changelog
 include_in_header: false
 ---
 
+## **Version 1.1.2**
+
+### What's new
+Improvements to accessibility and VoiceOver.
+
 ## **Version 1.1.1**
 
 ### What's new
