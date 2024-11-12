@@ -9,11 +9,6 @@ include_in_header: false
 * Introduces review translations with Apple's translation app.
 * Fixes a bug when adding an API key.
 
-This version contains a few fixes and improvements:
-* Fixes Split View on iPad
-* Improves usability of adding API keys
-* Improves accessibility support
-
 ## **Version 1.1.3**
 This version contains a few fixes and improvements:
 * Fixes Split View on iPad
