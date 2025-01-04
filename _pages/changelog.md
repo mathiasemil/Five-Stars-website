@@ -4,6 +4,9 @@ title: Changelog
 include_in_header: false
 ---
 
+## **Version 1.2.1**
+* Fixes a bug with review translations on iPad.
+
 ## **Version 1.2**
 * All Five Stars features are available for free.
 * Introduces review translations with Apple's translation app.
